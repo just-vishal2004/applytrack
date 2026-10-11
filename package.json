@@ -1,0 +1,14 @@
+{
+  "name": "applytrack",
+  "version": "1.0.0",
+  "description": "Job application tracking dashboard and API",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm --prefix server test",
+    "build": "npm --prefix client run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
