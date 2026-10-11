@@ -70,7 +70,3 @@ Create a production frontend build:
 ```sh
 cd client && npm run build
 ```
-
-## AI Development Experience
-
-This assessment requires the candidate to use CodeZero or Kiro. Record the tool actually used and the specific work completed with it here before submission. **Do not claim CodeZero or Kiro use unless that work was actually done.** If neither tool has been used yet, this requirement remains incomplete; use the required tool and replace this note with an accurate account of the prompts/tasks and resulting changes.
