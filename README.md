@@ -70,3 +70,30 @@ Create a production frontend build:
 ```sh
 cd client && npm run build
 ```
+## AI Development Experience
+
+### Tool: CodeZero
+
+CodeZero was installed in Visual Studio Code and connected to the
+ApplyTrack GitHub repository to explore its codebase and development
+workflow.
+
+The setup process included:
+- Connecting the ApplyTrack repository to CodeZero.
+- Selecting the repository for indexing.
+- Attempting to configure a compatible coding agent.
+- Investigating the agent configuration issue when CodeZero could
+  not initialize the configured provider.
+
+The coding-agent configuration was not completed successfully.
+Consequently, no application code changes are attributed to CodeZero.
+
+### Development and Verification
+
+ApplyTrack was developed using React, Vite, Node.js, Express,
+MongoDB, and Mongoose.
+
+The completed project was verified through:
+- Four passing backend API tests using Vitest and Supertest.
+- A successful Vite production build.
+- Verification of the public GitHub repository and committed changes.
